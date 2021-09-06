@@ -1,0 +1,319 @@
+{
+  "project_info": {
+    "project_number": "946800226181",
+    "firebase_url": "https://depstar-2a847.firebaseio.com",
+    "project_id": "depstar-2a847",
+    "storage_bucket": "depstar-2a847.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946800226181:android:d6515dec110e1846",
+        "android_client_info": {
+          "package_name": "com.charusat.www.depstar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946800226181-26e8un035thfdku9rvgd6rtllbpfnrl7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.charusat.www.depstar",
+            "certificate_hash": "276b568ecbd61e8963392e0574b9d395a7de709d"
+          }
+        },
+        {
+          "client_id": "946800226181-rt6do37eqd10ift7ou0jngmiu16slmkp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxbNJyzRjHj-xf19zWhDr5NlEi22xL4-c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946800226181-rt6do37eqd10ift7ou0jngmiu16slmkp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946800226181:android:3cdb562230dd929b",
+        "android_client_info": {
+          "package_name": "thirdsem.sgp.charusat.admissionenquiry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946800226181-b76addq5287pejb1pbd7bg99mtu31tbl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "thirdsem.sgp.charusat.admissionenquiry",
+            "certificate_hash": "1c9cf88290c65781b6435e82c98b2a439d112843"
+          }
+        },
+        {
+          "client_id": "946800226181-rt6do37eqd10ift7ou0jngmiu16slmkp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxbNJyzRjHj-xf19zWhDr5NlEi22xL4-c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946800226181-rt6do37eqd10ift7ou0jngmiu16slmkp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946800226181:android:94e1e0763114baed",
+        "android_client_info": {
+          "package_name": "thirdsem.sgp.charusat.dpiatr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946800226181-6c67phuab725lr6i7i785djf12m56koe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "thirdsem.sgp.charusat.dpiatr",
+            "certificate_hash": "1c9cf88290c65781b6435e82c98b2a439d112843"
+          }
+        },
+        {
+          "client_id": "946800226181-rt6do37eqd10ift7ou0jngmiu16slmkp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxbNJyzRjHj-xf19zWhDr5NlEi22xL4-c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946800226181-rt6do37eqd10ift7ou0jngmiu16slmkp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946800226181:android:9ce504bdf44eeb99",
+        "android_client_info": {
+          "package_name": "thirdsem.sgp.charusat.feedback"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946800226181-1l534jh231pq1471qq79fsluu53b56if.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "thirdsem.sgp.charusat.feedback",
+            "certificate_hash": "1c9cf88290c65781b6435e82c98b2a439d112843"
+          }
+        },
+        {
+          "client_id": "946800226181-rt6do37eqd10ift7ou0jngmiu16slmkp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxbNJyzRjHj-xf19zWhDr5NlEi22xL4-c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946800226181-rt6do37eqd10ift7ou0jngmiu16slmkp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946800226181:android:d4ec7100a86b7494",
+        "android_client_info": {
+          "package_name": "thirdsem.sgp.charusat.media"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946800226181-eie5uiu6jghloonmdrjrv4es5h6n8447.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "thirdsem.sgp.charusat.media",
+            "certificate_hash": "1c9cf88290c65781b6435e82c98b2a439d112843"
+          }
+        },
+        {
+          "client_id": "946800226181-rt6do37eqd10ift7ou0jngmiu16slmkp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxbNJyzRjHj-xf19zWhDr5NlEi22xL4-c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946800226181-rt6do37eqd10ift7ou0jngmiu16slmkp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946800226181:android:c6c6bf9aaa05bc9d",
+        "android_client_info": {
+          "package_name": "thirdsem.sgp.charusat.news_and_events"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946800226181-e75iecvu0r7svsc71gf9bja7r3e8q5s8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "thirdsem.sgp.charusat.news_and_events",
+            "certificate_hash": "1c9cf88290c65781b6435e82c98b2a439d112843"
+          }
+        },
+        {
+          "client_id": "946800226181-rt6do37eqd10ift7ou0jngmiu16slmkp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxbNJyzRjHj-xf19zWhDr5NlEi22xL4-c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946800226181-rt6do37eqd10ift7ou0jngmiu16slmkp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946800226181:android:bbb2ea22cad3832f",
+        "android_client_info": {
+          "package_name": "thirdsem.sgp.charusat.resultextract"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946800226181-ga0r37uosuoiigt2tcbftjepmg5b2rnq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "thirdsem.sgp.charusat.resultextract",
+            "certificate_hash": "1c9cf88290c65781b6435e82c98b2a439d112843"
+          }
+        },
+        {
+          "client_id": "946800226181-rt6do37eqd10ift7ou0jngmiu16slmkp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxbNJyzRjHj-xf19zWhDr5NlEi22xL4-c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946800226181-rt6do37eqd10ift7ou0jngmiu16slmkp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
